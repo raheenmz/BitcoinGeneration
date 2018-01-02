@@ -2,11 +2,6 @@
 #### PROJECT 1 ####
 ###################
 
-Group members: Raheen Mazgaonkar, UFID: 4714-4316
-               Varun Mankal, UFID: 0482-7615 
-
-
-
 The goal of this project is generate bitcoins with the required number of leading zeros using actor model. It has also been extended to enlist other machines to take part in bitcoin generation. 
 
 **Steps to execute**
